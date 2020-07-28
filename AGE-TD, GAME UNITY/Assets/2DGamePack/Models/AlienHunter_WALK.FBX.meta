@@ -1,0 +1,214 @@
+fileFormatVersion: 2
+guid: 67a78660fe608624c922c501b7d4dc74
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: alienBiped
+    100002: alienBiped L Finger01
+    100004: alienBiped L Finger02
+    100006: alienBiped L Finger1
+    100008: alienBiped L Finger11
+    100010: alienBiped L Finger12
+    100012: alienBiped L Finger1Nub
+    100014: alienBiped L Finger2
+    100016: alienBiped L Finger21
+    100018: alienBiped L Finger22
+    100020: alienBiped L Finger2Nub
+    100022: alienBiped L Toe01
+    100024: alienBiped R Finger01
+    100026: alienBiped R Finger02
+    100028: alienBiped R Finger1
+    100030: alienBiped R Finger11
+    100032: alienBiped R Finger12
+    100034: alienBiped R Finger1Nub
+    100036: alienBiped R Finger2
+    100038: alienBiped R Finger21
+    100040: alienBiped R Finger22
+    100042: alienBiped R Finger2Nub
+    100044: alienBiped R Toe01
+    100046: //RootNode
+    100048: AlienMesh
+    100050: belt
+    100052: Bip01 Footsteps
+    100054: Bip01 Head
+    100056: Bip01 HeadNub
+    100058: Bip01 L Calf
+    100060: Bip01 L Clavicle
+    100062: Bip01 L Finger0
+    100064: Bip01 L Finger0Nub
+    100066: Bip01 L Foot
+    100068: Bip01 L Forearm
+    100070: Bip01 L Hand
+    100072: Bip01 L Thigh
+    100074: Bip01 L Toe0
+    100076: Bip01 L Toe0Nub
+    100078: Bip01 L UpperArm
+    100080: Bip01 Neck
+    100082: Bip01 Pelvis
+    100084: Bip01 R Calf
+    100086: Bip01 R Clavicle
+    100088: Bip01 R Finger0
+    100090: Bip01 R Finger0Nub
+    100092: Bip01 R Foot
+    100094: Bip01 R Forearm
+    100096: Bip01 R Hand
+    100098: Bip01 R Thigh
+    100100: Bip01 R Toe0
+    100102: Bip01 R Toe0Nub
+    100104: Bip01 R UpperArm
+    100106: Bip01 Spine
+    100108: Bip01 Spine1
+    100110: Bip01 Spine2
+    100112: Bip01 Spine3
+    100114: L arm band
+    100116: L knee pad
+    100118: L ring armor
+    100120: Leg armor
+    100122: R knee pad
+    100124: R wrist armor
+    100126: Shoulder Pad Gun
+    400000: alienBiped
+    400002: alienBiped L Finger01
+    400004: alienBiped L Finger02
+    400006: alienBiped L Finger1
+    400008: alienBiped L Finger11
+    400010: alienBiped L Finger12
+    400012: alienBiped L Finger1Nub
+    400014: alienBiped L Finger2
+    400016: alienBiped L Finger21
+    400018: alienBiped L Finger22
+    400020: alienBiped L Finger2Nub
+    400022: alienBiped L Toe01
+    400024: alienBiped R Finger01
+    400026: alienBiped R Finger02
+    400028: alienBiped R Finger1
+    400030: alienBiped R Finger11
+    400032: alienBiped R Finger12
+    400034: alienBiped R Finger1Nub
+    400036: alienBiped R Finger2
+    400038: alienBiped R Finger21
+    400040: alienBiped R Finger22
+    400042: alienBiped R Finger2Nub
+    400044: alienBiped R Toe01
+    400046: //RootNode
+    400048: AlienMesh
+    400050: belt
+    400052: Bip01 Footsteps
+    400054: Bip01 Head
+    400056: Bip01 HeadNub
+    400058: Bip01 L Calf
+    400060: Bip01 L Clavicle
+    400062: Bip01 L Finger0
+    400064: Bip01 L Finger0Nub
+    400066: Bip01 L Foot
+    400068: Bip01 L Forearm
+    400070: Bip01 L Hand
+    400072: Bip01 L Thigh
+    400074: Bip01 L Toe0
+    400076: Bip01 L Toe0Nub
+    400078: Bip01 L UpperArm
+    400080: Bip01 Neck
+    400082: Bip01 Pelvis
+    400084: Bip01 R Calf
+    400086: Bip01 R Clavicle
+    400088: Bip01 R Finger0
+    400090: Bip01 R Finger0Nub
+    400092: Bip01 R Foot
+    400094: Bip01 R Forearm
+    400096: Bip01 R Hand
+    400098: Bip01 R Thigh
+    400100: Bip01 R Toe0
+    400102: Bip01 R Toe0Nub
+    400104: Bip01 R UpperArm
+    400106: Bip01 Spine
+    400108: Bip01 Spine1
+    400110: Bip01 Spine2
+    400112: Bip01 Spine3
+    400114: L arm band
+    400116: L knee pad
+    400118: L ring armor
+    400120: Leg armor
+    400122: R knee pad
+    400124: R wrist armor
+    400126: Shoulder Pad Gun
+    2300000: belt
+    2300002: L arm band
+    2300004: L knee pad
+    2300006: L ring armor
+    2300008: Leg armor
+    2300010: R knee pad
+    2300012: R wrist armor
+    2300014: Shoulder Pad Gun
+    3300000: belt
+    3300002: L arm band
+    3300004: L knee pad
+    3300006: L ring armor
+    3300008: Leg armor
+    3300010: R knee pad
+    3300012: R wrist armor
+    3300014: Shoulder Pad Gun
+    4300000: AlienMesh
+    4300002: L ring armor
+    4300004: L arm band
+    4300006: R wrist armor
+    4300008: Shoulder Pad Gun
+    4300010: L knee pad
+    4300012: R knee pad
+    4300014: Leg armor
+    4300016: belt
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: AlienMesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
